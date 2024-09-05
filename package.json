@@ -1,0 +1,16 @@
+{
+  "name": "auto_fin_model",
+  "version": "1.0.0",
+  "description": "Приложение для автоматического построение финансовой модели",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "migur maksim",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "electron": "^32.0.2",
+    "electron-is-dev": "^3.0.1"
+  }
+}
